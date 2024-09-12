@@ -33,6 +33,9 @@ I am currently a backend developer intern at CitiasiaInc, and I previously inter
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nugrahaAdhitama&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahaAdhitama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Nugraha Adhitama's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugrahaAdhitama&theme=dark&show_icons=true)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahaAdhitama&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nugrahaAdhitama&theme=dark&show_icons=true" alt="GitHub Stats" height="195px" />
+</div>
+
 
