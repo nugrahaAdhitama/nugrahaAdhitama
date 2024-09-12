@@ -9,6 +9,9 @@ I am currently a backend developer intern at CitiasiaInc, and I previously inter
   <a href="https://linkedin.com/in/nugraha-adhitama">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/nugrahadhitama/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
 </div>
 
 ---
@@ -34,7 +37,7 @@ I am currently a backend developer intern at CitiasiaInc, and I previously inter
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nugrahaAdhitama&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahaAdhitama&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahaAdhitama&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide=rich%20text%20format" alt="Top Langs" height="195px" />
   <img src="https://github-readme-stats.vercel.app/api?username=nugrahaAdhitama&theme=dark&show_icons=true" alt="GitHub Stats" height="195px" />
 </div>
 
